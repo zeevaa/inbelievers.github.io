@@ -1692,13 +1692,13 @@ section {
 
 .blog .entry {
   padding: 30px;
-  margin-bottom: 60px;
+  /* margin-bottom: 60px; */
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
 .blog .entry .entry-img {
-  max-height: 440px;
-  margin: -30px -30px 20px -30px;
+  max-height: 500px;
+  margin: -65px -30px 20px -30px;
   overflow: hidden;
 }
 
